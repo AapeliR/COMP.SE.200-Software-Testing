@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # COMP.SE.200-Software-Testing
 
-[![Coverage Status](https://coveralls.io/repos/github/AapeliR/COMP.SE.200-Software-Testing/badge.svg)](https://coveralls.io/github/AapeliR/COMP.SE.200-Software-Testing)
+[![Coverage Status](https://coveralls.io/repos/github/AapeliR/COMP.SE.200-Software-Testing/badge.svg?branch=main)](https://coveralls.io/github/AapeliR/COMP.SE.200-Software-Testing?branch=main)
 
 COMP.SE.200 Software Testing
 =======
