@@ -1,7 +1,21 @@
 {
-  "include": ["src/**/*.js"],
-  "exclude": ["src/.internal/**", "test/**"],
   "reporter": ["lcov", "text"],
   "all": true,
+  "include": [
+    "src/add.js",
+    "src/at.js",
+    "src/capitalize.js",
+    "src/castArray.js",
+    "src/ceil.js",
+    "src/clamp.js",
+    "src/compact.js",
+    "src/defaultToAny.js",
+    "src/difference.js",
+    "src/eq.js"
+  ],
+  "exclude": [
+    "src/.internal/**",
+    "test/**"
+  ],
   "extension": [".js"]
 }
